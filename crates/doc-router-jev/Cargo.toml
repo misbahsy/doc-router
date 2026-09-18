@@ -1,0 +1,21 @@
+[package]
+name = "doc-router-jev"
+description = "A doc-router PageJudge backed by TypeSafe's hosted System One (Jev) model"
+edition.workspace = true
+version.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[lib]
+name = "doc_router_jev"
+path = "src/lib.rs"
+
+[dependencies]
+doc-router = { path = "../doc-router", version = "0.1.0" }
+serde.workspace = true
+serde_json.workspace = true
+thiserror.workspace = true
+ureq.workspace = true
+
+[dev-dependencies]
+httpmock = "0.8"

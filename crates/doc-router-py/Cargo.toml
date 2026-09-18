@@ -1,0 +1,21 @@
+[package]
+name = "doc-router-py"
+description = "Python bindings (PyO3) for the doc-router document routing library"
+edition.workspace = true
+version.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[lib]
+# The Python extension module is `doc_router._native`; the pure-Python package in
+# `python/doc_router/` re-exports it as `doc_router`.
+name = "_native"
+path = "src/lib.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+doc-router = { path = "../doc-router" }
+serde.workspace = true
+serde_json.workspace = true
+pyo3 = { version = "0.29", features = ["extension-module", "abi3-py310"] }
+pythonize = "0.29"

@@ -1,0 +1,137 @@
+{
+  "classification": {
+    "confidence": 1.0,
+    "is_complex_layout": false,
+    "page_count": 2,
+    "pages_needing_ocr": [],
+    "pdf_type": "text_based"
+  },
+  "fixture": "text.pdf",
+  "local_pages": [
+    {
+      "index": 0,
+      "markdown": "TEXT ONLY DOCUMENT Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 1,
+      "markdown": "PAGE TWO OF TEXT Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    }
+  ],
+  "plans": [
+    {
+      "config": {
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "local_pdf/extract",
+            "pages": null,
+            "tier": "local"
+          }
+        ],
+        "reason": "text_layer",
+        "routed_model": "local_pdf/extract",
+        "tier": "local"
+      }
+    },
+    {
+      "config": {
+        "tiers": {
+          "local": "local_pdf/extract",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "local_pdf/extract",
+            "pages": null,
+            "tier": "local"
+          }
+        ],
+        "reason": "text_layer",
+        "routed_model": "local_pdf/extract",
+        "tier": "local"
+      }
+    },
+    {
+      "config": {
+        "split_pages": false,
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "local_pdf/extract",
+            "pages": null,
+            "tier": "local"
+          }
+        ],
+        "reason": "text_layer",
+        "routed_model": "local_pdf/extract",
+        "tier": "local"
+      }
+    },
+    {
+      "config": {
+        "min_confidence": 1.0,
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "local_pdf/extract",
+            "pages": null,
+            "tier": "local"
+          }
+        ],
+        "reason": "text_layer",
+        "routed_model": "local_pdf/extract",
+        "tier": "local"
+      }
+    },
+    {
+      "config": {
+        "complex_layout_tier": "standard",
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "local_pdf/extract",
+            "pages": null,
+            "tier": "local"
+          }
+        ],
+        "reason": "text_layer",
+        "routed_model": "local_pdf/extract",
+        "tier": "local"
+      }
+    }
+  ],
+  "sha256": "e4d33233eae7f74f04b688a3093f5037519c36dfa7cc3387a2dd897cf01dbb3c"
+}

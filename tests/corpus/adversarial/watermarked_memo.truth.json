@@ -1,0 +1,48 @@
+{
+  "schema": "doc-router/corpus-truth@1",
+  "document": "watermarked_memo.pdf",
+  "page_count": 5,
+  "needs_ocr": [],
+  "pages": {
+    "0": {
+      "needs_ocr": false,
+      "trap": "watermarked_text",
+      "why": "Complete, correct text layer under a full-page RECEIVED stamp. The stamp makes the page image-dominant and the short body puts it under pdf-inspector's ten-operator floor, so it is flagged; every word of the page is already in the text layer, so OCR is pure waste.",
+      "text": "INTERNAL MEMORANDUM -- PAGE 1\nStorage charges accrue from the first day after the free period\nends and are billed monthly in arrears. Payment falls due thirty\ndays from the date of this invoice unless a different term is\nagreed in writing. The parties agree that the governing law of\nthis agreement is that of the jurisdiction named in clause 34.\nPayment falls due thirty days from the date of this invoice unless\na different term is agreed in writing. Storage charges accrue from\nthe first day after the free period ends and are billed monthly in",
+      "text_layer": "INTERNAL MEMORANDUM -- PAGE 1\nStorage charges accrue from the first day after the free period\nends and are billed monthly in arrears. Payment falls due thirty\ndays from the date of this invoice unless a different term is\nagreed in writing. The parties agree that the governing law of\nthis agreement is that of the jurisdiction named in clause 34.\nPayment falls due thirty days from the date of this invoice unless\na different term is agreed in writing. Storage charges accrue from\nthe first day after the free period ends and are billed monthly in",
+      "kind": "watermark"
+    },
+    "1": {
+      "needs_ocr": false,
+      "trap": "watermarked_text",
+      "why": "Complete, correct text layer under a full-page RECEIVED stamp. The stamp makes the page image-dominant and the short body puts it under pdf-inspector's ten-operator floor, so it is flagged; every word of the page is already in the text layer, so OCR is pure waste.",
+      "text": "INTERNAL MEMORANDUM -- PAGE 2\nThe parties agree that the governing law of this agreement is that\nof the jurisdiction named in clause 50. The parties agree that the\ngoverning law of this agreement is that of the jurisdiction named\nin clause 7. Payment falls due thirty days from the date of this\ninvoice unless a different term is agreed in writing. Any\ndiscrepancy must be reported to the account manager within five\nworking days of receipt. The supplier shall deliver the goods\ndescribed in Schedule 78 to the receiving dock at the address",
+      "text_layer": "INTERNAL MEMORANDUM -- PAGE 2\nThe parties agree that the governing law of this agreement is that\nof the jurisdiction named in clause 50. The parties agree that the\ngoverning law of this agreement is that of the jurisdiction named\nin clause 7. Payment falls due thirty days from the date of this\ninvoice unless a different term is agreed in writing. Any\ndiscrepancy must be reported to the account manager within five\nworking days of receipt. The supplier shall deliver the goods\ndescribed in Schedule 78 to the receiving dock at the address",
+      "kind": "watermark"
+    },
+    "2": {
+      "needs_ocr": false,
+      "trap": "watermarked_text",
+      "why": "Complete, correct text layer under a full-page RECEIVED stamp. The stamp makes the page image-dominant and the short body puts it under pdf-inspector's ten-operator floor, so it is flagged; every word of the page is already in the text layer, so OCR is pure waste.",
+      "text": "INTERNAL MEMORANDUM -- PAGE 3\nAny discrepancy must be reported to the account manager within\nfive working days of receipt. The supplier shall deliver the goods\ndescribed in Schedule 85 to the receiving dock at the address\nshown above. Storage charges accrue from the first day after the\nfree period ends and are billed monthly in arrears. The parties\nagree that the governing law of this agreement is that of the\njurisdiction named in clause 80. Storage charges accrue from the\nfirst day after the free period ends and are billed monthly in",
+      "text_layer": "INTERNAL MEMORANDUM -- PAGE 3\nAny discrepancy must be reported to the account manager within\nfive working days of receipt. The supplier shall deliver the goods\ndescribed in Schedule 85 to the receiving dock at the address\nshown above. Storage charges accrue from the first day after the\nfree period ends and are billed monthly in arrears. The parties\nagree that the governing law of this agreement is that of the\njurisdiction named in clause 80. Storage charges accrue from the\nfirst day after the free period ends and are billed monthly in",
+      "kind": "watermark"
+    },
+    "3": {
+      "needs_ocr": false,
+      "trap": "watermarked_text",
+      "why": "Complete, correct text layer under a full-page RECEIVED stamp. The stamp makes the page image-dominant and the short body puts it under pdf-inspector's ten-operator floor, so it is flagged; every word of the page is already in the text layer, so OCR is pure waste.",
+      "text": "INTERNAL MEMORANDUM -- PAGE 4\nThe parties agree that the governing law of this agreement is that\nof the jurisdiction named in clause 16. The supplier shall deliver\nthe goods described in Schedule 42 to the receiving dock at the\naddress shown above. Payment falls due thirty days from the date\nof this invoice unless a different term is agreed in writing.\nQuantities recorded at goods-in take precedence over the\nquantities stated on the accompanying delivery note. Quantities\nrecorded at goods-in take precedence over the quantities stated on",
+      "text_layer": "INTERNAL MEMORANDUM -- PAGE 4\nThe parties agree that the governing law of this agreement is that\nof the jurisdiction named in clause 16. The supplier shall deliver\nthe goods described in Schedule 42 to the receiving dock at the\naddress shown above. Payment falls due thirty days from the date\nof this invoice unless a different term is agreed in writing.\nQuantities recorded at goods-in take precedence over the\nquantities stated on the accompanying delivery note. Quantities\nrecorded at goods-in take precedence over the quantities stated on",
+      "kind": "watermark"
+    },
+    "4": {
+      "needs_ocr": false,
+      "trap": "watermarked_text",
+      "why": "Complete, correct text layer under a full-page RECEIVED stamp. The stamp makes the page image-dominant and the short body puts it under pdf-inspector's ten-operator floor, so it is flagged; every word of the page is already in the text layer, so OCR is pure waste.",
+      "text": "INTERNAL MEMORANDUM -- PAGE 5\nThis page was produced by the records office and carries the file\nreference printed in the footer. Storage charges accrue from the\nfirst day after the free period ends and are billed monthly in\narrears. Storage charges accrue from the first day after the free\nperiod ends and are billed monthly in arrears. Storage charges\naccrue from the first day after the free period ends and are\nbilled monthly in arrears. This page was produced by the records\noffice and carries the file reference printed in the footer.",
+      "text_layer": "INTERNAL MEMORANDUM -- PAGE 5\nThis page was produced by the records office and carries the file\nreference printed in the footer. Storage charges accrue from the\nfirst day after the free period ends and are billed monthly in\narrears. Storage charges accrue from the first day after the free\nperiod ends and are billed monthly in arrears. Storage charges\naccrue from the first day after the free period ends and are\nbilled monthly in arrears. This page was produced by the records\noffice and carries the file reference printed in the footer.",
+      "kind": "watermark"
+    }
+  }
+}

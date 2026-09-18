@@ -1,0 +1,349 @@
+{
+  "classification": {
+    "confidence": 0.699999988079071,
+    "is_complex_layout": false,
+    "page_count": 24,
+    "pages_needing_ocr": [
+      0,
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      21
+    ],
+    "pdf_type": "mixed"
+  },
+  "fixture": "mixed_long_split.pdf",
+  "local_pages": [
+    {
+      "index": 0,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 1,
+      "markdown": "MIXED SPLIT PAGE 2 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 2,
+      "markdown": "MIXED SPLIT PAGE 3 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 3,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 4,
+      "markdown": "MIXED SPLIT PAGE 5 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 5,
+      "markdown": "MIXED SPLIT PAGE 6 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 6,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 7,
+      "markdown": "MIXED SPLIT PAGE 8 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 8,
+      "markdown": "MIXED SPLIT PAGE 9 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 9,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 10,
+      "markdown": "MIXED SPLIT PAGE 11 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 11,
+      "markdown": "MIXED SPLIT PAGE 12 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 12,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 13,
+      "markdown": "MIXED SPLIT PAGE 14 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 14,
+      "markdown": "MIXED SPLIT PAGE 15 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 15,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 16,
+      "markdown": "MIXED SPLIT PAGE 17 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 17,
+      "markdown": "MIXED SPLIT PAGE 18 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 18,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 19,
+      "markdown": "MIXED SPLIT PAGE 20 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 20,
+      "markdown": "MIXED SPLIT PAGE 21 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 21,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 22,
+      "markdown": "MIXED SPLIT PAGE 23 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    },
+    {
+      "index": 23,
+      "markdown": "MIXED SPLIT PAGE 24 Line 1: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 2: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 3: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 4: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 5: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 6: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 7: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 8: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 9: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 10: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 11: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 12: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 13: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 14: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 15: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 16: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 17: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 18: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 19: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 20: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 21: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 22: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 23: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 24: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 25: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 26: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 27: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 28: The quick brown fox jumps over the lazy dog near the river bank at dawn. Line 29: The quick brown fox jumps over the lazy dog near the river bank at dawn.\n",
+      "needs_ocr": false
+    }
+  ],
+  "plans": [
+    {
+      "config": {
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "local_pdf/extract",
+            "pages": [
+              1,
+              2,
+              4,
+              5,
+              7,
+              8,
+              10,
+              11,
+              13,
+              14,
+              16,
+              17,
+              19,
+              20,
+              22,
+              23
+            ],
+            "tier": "local"
+          },
+          {
+            "model": "mistral-ocr",
+            "pages": [
+              0,
+              3,
+              6,
+              9,
+              12,
+              15,
+              18,
+              21
+            ],
+            "tier": "standard"
+          }
+        ],
+        "reason": "mixed_split",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    },
+    {
+      "config": {
+        "tiers": {
+          "local": "local_pdf/extract",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "local_pdf/extract",
+            "pages": [
+              1,
+              2,
+              4,
+              5,
+              7,
+              8,
+              10,
+              11,
+              13,
+              14,
+              16,
+              17,
+              19,
+              20,
+              22,
+              23
+            ],
+            "tier": "local"
+          },
+          {
+            "model": "mistral-ocr",
+            "pages": [
+              0,
+              3,
+              6,
+              9,
+              12,
+              15,
+              18,
+              21
+            ],
+            "tier": "standard"
+          }
+        ],
+        "reason": "mixed_split",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    },
+    {
+      "config": {
+        "split_pages": false,
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "mistral-ocr",
+            "pages": null,
+            "tier": "standard"
+          }
+        ],
+        "reason": "mixed_unsplit",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    },
+    {
+      "config": {
+        "min_confidence": 1.0,
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "mistral-ocr",
+            "pages": null,
+            "tier": "standard"
+          }
+        ],
+        "reason": "low_confidence",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    },
+    {
+      "config": {
+        "complex_layout_tier": "standard",
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "local_pdf/extract",
+            "pages": [
+              1,
+              2,
+              4,
+              5,
+              7,
+              8,
+              10,
+              11,
+              13,
+              14,
+              16,
+              17,
+              19,
+              20,
+              22,
+              23
+            ],
+            "tier": "local"
+          },
+          {
+            "model": "mistral-ocr",
+            "pages": [
+              0,
+              3,
+              6,
+              9,
+              12,
+              15,
+              18,
+              21
+            ],
+            "tier": "standard"
+          }
+        ],
+        "reason": "mixed_split",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    }
+  ],
+  "sha256": "98fda9a7f72b1ea2cf8f623b96bba3802ccb9bab844acdddea6fb87eb0ed9d2c"
+}

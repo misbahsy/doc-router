@@ -1,0 +1,8 @@
+target/
+# Local credentials for the bench harness's hosted judges. Never committed.
+.env
+**/__pycache__/
+*.pyc
+.venv/
+*.so
+dist/

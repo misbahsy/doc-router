@@ -1,0 +1,27 @@
+[package]
+name = "doc-router-bench"
+description = "Benchmark harness scoring any doc-router PageJudge against a ground-truth corpus"
+edition.workspace = true
+version.workspace = true
+license.workspace = true
+rust-version.workspace = true
+# A development tool, not part of the released surface: it exists to score judges
+# against `tests/corpus`, which is only ever present in a source checkout.
+publish = false
+
+[lib]
+name = "doc_router_bench"
+path = "src/lib.rs"
+
+[[bin]]
+name = "doc-router-bench"
+path = "src/main.rs"
+
+[dependencies]
+doc-router = { path = "../doc-router", version = "0.1.0" }
+doc-router-cli = { path = "../doc-router-cli", version = "0.1.0" }
+doc-router-jev = { path = "../doc-router-jev", version = "0.1.0" }
+anyhow.workspace = true
+clap.workspace = true
+serde.workspace = true
+serde_json.workspace = true

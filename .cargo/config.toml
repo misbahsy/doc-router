@@ -1,0 +1,17 @@
+# `doc-router-py` is a Python extension module (`crate-type = ["cdylib"]`, pyo3's
+# `extension-module` feature), so it deliberately does NOT link against libpython:
+# the symbols are resolved by the interpreter that dlopen()s the module.
+#
+# On Linux that is the default; on macOS the linker rejects undefined symbols unless
+# told otherwise, so `cargo build --workspace` fails with
+# `Undefined symbols ... _PyBaseObject_Type` without these flags. maturin passes them
+# itself, so this file only matters for plain cargo invocations (build, clippy, test).
+#
+# `-undefined dynamic_lookup` is safe here because the only undefined symbols are
+# CPython's, and it is applied per-target so nothing changes on Linux/Windows.
+
+[target.aarch64-apple-darwin]
+rustflags = ["-C", "link-arg=-undefined", "-C", "link-arg=dynamic_lookup"]
+
+[target.x86_64-apple-darwin]
+rustflags = ["-C", "link-arg=-undefined", "-C", "link-arg=dynamic_lookup"]

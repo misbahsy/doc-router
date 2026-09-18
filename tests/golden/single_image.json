@@ -1,0 +1,134 @@
+{
+  "classification": {
+    "confidence": 0.949999988079071,
+    "is_complex_layout": false,
+    "page_count": 1,
+    "pages_needing_ocr": [
+      0
+    ],
+    "pdf_type": "scanned"
+  },
+  "fixture": "single_image.pdf",
+  "local_pages": [
+    {
+      "index": 0,
+      "markdown": "",
+      "needs_ocr": true
+    }
+  ],
+  "plans": [
+    {
+      "config": {
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "mistral-ocr",
+            "pages": null,
+            "tier": "standard"
+          }
+        ],
+        "reason": "scanned",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    },
+    {
+      "config": {
+        "tiers": {
+          "local": "local_pdf/extract",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "mistral-ocr",
+            "pages": null,
+            "tier": "standard"
+          }
+        ],
+        "reason": "scanned",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    },
+    {
+      "config": {
+        "split_pages": false,
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "mistral-ocr",
+            "pages": null,
+            "tier": "standard"
+          }
+        ],
+        "reason": "scanned",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    },
+    {
+      "config": {
+        "min_confidence": 1.0,
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "mistral-ocr",
+            "pages": null,
+            "tier": "standard"
+          }
+        ],
+        "reason": "low_confidence",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    },
+    {
+      "config": {
+        "complex_layout_tier": "standard",
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "mistral-ocr",
+            "pages": null,
+            "tier": "standard"
+          }
+        ],
+        "reason": "scanned",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    }
+  ],
+  "sha256": "d7e81da85bcd38ff5b33c86ec56862ffe8bd818850b52d4cb36c6f4f4045dd45"
+}

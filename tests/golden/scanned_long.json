@@ -1,0 +1,308 @@
+{
+  "classification": {
+    "confidence": 0.949999988079071,
+    "is_complex_layout": false,
+    "page_count": 30,
+    "pages_needing_ocr": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "pdf_type": "scanned"
+  },
+  "fixture": "scanned_long.pdf",
+  "local_pages": [
+    {
+      "index": 0,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 1,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 2,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 3,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 4,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 5,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 6,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 7,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 8,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 9,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 10,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 11,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 12,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 13,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 14,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 15,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 16,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 17,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 18,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 19,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 20,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 21,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 22,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 23,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 24,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 25,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 26,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 27,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 28,
+      "markdown": "",
+      "needs_ocr": true
+    },
+    {
+      "index": 29,
+      "markdown": "",
+      "needs_ocr": true
+    }
+  ],
+  "plans": [
+    {
+      "config": {
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "mistral-ocr",
+            "pages": null,
+            "tier": "standard"
+          }
+        ],
+        "reason": "scanned",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    },
+    {
+      "config": {
+        "tiers": {
+          "local": "local_pdf/extract",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "mistral-ocr",
+            "pages": null,
+            "tier": "standard"
+          }
+        ],
+        "reason": "scanned",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    },
+    {
+      "config": {
+        "split_pages": false,
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "mistral-ocr",
+            "pages": null,
+            "tier": "standard"
+          }
+        ],
+        "reason": "scanned",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    },
+    {
+      "config": {
+        "min_confidence": 1.0,
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "mistral-ocr",
+            "pages": null,
+            "tier": "standard"
+          }
+        ],
+        "reason": "low_confidence",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    },
+    {
+      "config": {
+        "complex_layout_tier": "standard",
+        "tiers": {
+          "local": "local_pdf/extract",
+          "premium": "gpt-5-ocr",
+          "standard": "mistral-ocr"
+        }
+      },
+      "default_model": null,
+      "plan": {
+        "legs": [
+          {
+            "model": "mistral-ocr",
+            "pages": null,
+            "tier": "standard"
+          }
+        ],
+        "reason": "scanned",
+        "routed_model": "mistral-ocr",
+        "tier": "standard"
+      }
+    }
+  ],
+  "sha256": "a5b76ea637657b13987198d1a932b25c4cdd45b80374d53c7289ecf783eb7ac9"
+}

@@ -1,0 +1,30 @@
+[package]
+name = "doc-router-cli"
+description = "Command-line front end for doc-router: classify, plan, extract, split and run PDFs through a LiteLLM proxy"
+edition.workspace = true
+version.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[lib]
+name = "doc_router_cli"
+path = "src/lib.rs"
+
+[[bin]]
+name = "doc-router"
+path = "src/main.rs"
+
+[dependencies]
+doc-router = { path = "../doc-router", version = "0.1.0" }
+doc-router-jev = { path = "../doc-router-jev", version = "0.1.0" }
+anyhow.workspace = true
+base64.workspace = true
+clap.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+thiserror.workspace = true
+ureq.workspace = true
+
+[dev-dependencies]
+assert_cmd = "2"
+httpmock = "0.8"
