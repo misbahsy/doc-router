@@ -27,8 +27,9 @@ gateway, 3 runs per document:
 | bill at $2.00/1k pages | $0.3100 | $0.1783 — **1.74x cheaper** |
 | pages that needed OCR and didn't get it | 0 | 9 — vs **28** for a rules-based judge |
 
-The judge costs **2.5% of the OCR bill it authorises**. The full write-up, including why a
-cheaper bill is sometimes a *worse* result, is here: **[the story ↗](https://claude.ai/artifact/Udne2Jfubah1kCSQ7G8TdN)**.
+The judge costs **2.5% of the OCR bill it authorises**. Note that a cheaper bill is not
+automatically a better result: the rules-based judge is cheaper still and misses three times
+as many pages. [docs/GUIDE.md](docs/GUIDE.md) has the method and the per-document numbers.
 
 ## What's under the hood
 
@@ -123,8 +124,6 @@ tuning thresholds to fit my documents.
 - **[docs/GUIDE.md](docs/GUIDE.md)** — the full manual: every flag, env var and judge, the
   benchmark report format, the architecture, troubleshooting.
 - **[docs/SPEC.md](docs/SPEC.md)** — the routing spec and decision table.
-- **[The story ↗](https://claude.ai/artifact/Udne2Jfubah1kCSQ7G8TdN)** — the measured
-  results in full, and the methodology behind them.
 - [LiteLLM docs](https://docs.litellm.ai) · [TypeSafe / Jev docs](https://docs.typesafe.ai)
   · [Mistral OCR](https://docs.mistral.ai/capabilities/OCR/basic_ocr/)
 
